@@ -206,3 +206,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Model artifacts
+results/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.h5
+*.pkl
+*.npy
+*.npz
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other common large files
+*.log
+*.ckpt
+*.onnx
+*.tflite
