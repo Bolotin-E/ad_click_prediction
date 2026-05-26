@@ -1,4 +1,5 @@
 # Ad Click Prediction & CTR Analytics Dashboard
+<img width="1802" height="1056" alt="Screenshot 2026-05-26 at 5 16 08 PM" src="https://github.com/user-attachments/assets/f83fb4aa-f600-4c4d-89fa-8bb7b37209f9" />
 
 <h3>Data Sources</h3>
 Sales Data: The primary dataset used for this analysis is the "ad_click_dataset.csv" file. 
