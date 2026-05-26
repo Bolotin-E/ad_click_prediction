@@ -12,26 +12,6 @@ This dataset provides insights into user behavior and online advertising, specif
 Online advertising platforms need to understand which users are more likely to click on ads in order to improve targeting and campaign performance.
 This project analyzes user behavior, device usage, demographics, and browsing patterns to identify key factors influencing ad click performance.
 
-<h3>Features</h3>
-
-<b>id:</b> Unique identifier for each user.
-
-<b>full_name:</b> User's name formatted as "UserX" for anonymity.
-
-<b>age:</b> Age of the user (ranging from 18 to 64 years).
-
-<b>gender:</b> The gender of the user (categorized as Male, Female, or Non-Binary).
-
-<b>device_type:</b> The type of device used by the user when viewing the ad (Mobile, Desktop, Tablet).
-
-<b>ad_position:</b> The position of the ad on the webpage (Top, Side, Bottom).
-
-<b>browsing_history:</b> The user's browsing activity prior to seeing the ad (Shopping, News, Entertainment, Education, Social Media).
-
-<b>time_of_day:</b> The time when the user viewed the ad (Morning, Afternoon, Evening, Night).
-
-<b>click:</b> The target label indicating whether the user clicked on the ad (1 for a click, 0 for no click).
-
 <h3>Goal</h3>
 
 The objective of this dataset is to predict whether a user will click on an online ad based on their demographics, browsing behavior, the context of the ad's display, and the time of day. 
