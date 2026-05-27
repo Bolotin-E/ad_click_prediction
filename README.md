@@ -54,6 +54,7 @@ Random Forest Classifier achieved:
 
 ## Tableau Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/elena.bolotin/viz/Ad_Click_Performance_Dashboard/AdClickPerformanceAnalysis)
+
 The interactive dashboard includes:
 - CTR by Device Type
 - CTR by Time of Day
