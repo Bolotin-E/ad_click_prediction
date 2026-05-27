@@ -49,8 +49,8 @@ You will need to clean the data, understand it and then apply machine learning m
 ## Model Performance
 
 Random Forest Classifier achieved:
-- Accuracy: 79%
-- Cross-validation score: 79%
+- Test accuracy: 79%
+- Cross-validation accuracy: 79%
 
 ## Tableau Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/elena.bolotin/viz/Ad_Click_Performance_Dashboard/AdClickPerformanceAnalysis)
